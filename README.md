@@ -12,7 +12,7 @@
 A categorized community-driven collection of awesome [Onset](https://playonset.com) packages, plugins, assets and tools.
 
 ## Contribute
-Contributions are welcome! Read the [contribution guidelines](contributing.md) first.
+Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
 
 ## Contents
 * [Packages](#packages)
