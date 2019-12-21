@@ -19,7 +19,6 @@ Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) f
 ## Table of Contents
 * [Packages and Plugins](#packages-and-plugins)
   * [Admin](#admin)
-  * [Roleplay](#roleplay)
   * [Minigames](#minigames)
   * [Gamemodes](#gamemodes)
   * [Libraries](#libraries)
@@ -45,7 +44,6 @@ Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) f
   
 ## Packages and Plugins
 ### Admin
-### Roleplay
 ### Minigames
 ### Gamemodes
 ### Libraries
