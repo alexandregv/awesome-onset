@@ -58,6 +58,7 @@ Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) f
 * [i18n](https://github.com/OnfireNetwork/i18n) - Internationalization framework for onset packages.
 * [dialogui](https://github.com/OnfireNetwork/dialogui) - A very simple ui system for basic dialogs in Onset.
 ### Other packages
+* [phone](https://github.com/rdlh/onset-phone) - A beautiful and powerful phone, made with VueJS.
 
 
 ## Assets
