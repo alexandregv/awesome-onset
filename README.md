@@ -59,6 +59,7 @@ Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) f
 * [dialogui](https://github.com/OnfireNetwork/dialogui) - A very simple ui system for basic dialogs in Onset.
 ### Other packages
 * [phone](https://github.com/rdlh/onset-phone) - A beautiful and powerful phone, made with VueJS.
+* [calculator](https://github.com/ShotenDev/Onset-calculator) - A simple calculator with a flat design.
 
 
 ## Assets
