@@ -46,6 +46,7 @@ Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) f
 ### Admin
 ### Minigames
 ### Gamemodes
+* [OnsetRP](https://github.com/frederic2ec/onsetrp) - A Roleplay framework, originally designed for [OnsetRPFR](#roleplay).
 ### Libraries
 ### Other packages
 
