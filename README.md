@@ -55,6 +55,7 @@ Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) f
 * [camera-library](https://github.com/dig/onset-camera-library) - A library to control camera. Allows to set camera to pan a location and to set camera on paths.
 * [data](https://github.com/dig/onset-data) - A library which adds weapons/vehicles class names and useful functions.
 * [i18n](https://github.com/OnfireNetwork/i18n) - Internationalization framework for onset packages.
+* [dialogui](https://github.com/OnfireNetwork/dialogui) - A very simple ui system for basic dialogs in Onset.
 ### Other packages
 
 
