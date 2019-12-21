@@ -52,6 +52,7 @@ Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) f
 ### Gamemodes
 * [OnsetRP](https://github.com/frederic2ec/onsetrp) - A Roleplay framework, originally designed for [OnsetRPFR](#roleplay).
 ### Libraries
+* [camera-library](https://github.com/dig/onset-camera-library) - A library to control camera. Allows to set camera to pan a location and to set camera on paths.
 ### Other packages
 
 
