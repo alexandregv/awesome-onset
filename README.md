@@ -68,6 +68,7 @@ Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) f
 ## Servers
 ### Roleplay
 * [OkayyNetwork](http://okayy.network/) - One of the very first server networks. For now it only has RP, but other gamemodes like CrimeCity, PrisonRP and MiniGames are planned. (English)
+* [SolidRP](https://solidrp.fr/) - An advanced RP server leveraging strong plugins. (French)
 ### Prison
 ### Murder
 ### Quake
