@@ -19,6 +19,7 @@ Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) f
 ## Table of Contents
 * [Packages and Plugins](#packages-and-plugins)
   * [Admin](#admin)
+  * [Mapping](#mapping)
   * [Minigames](#minigames)
   * [Gamemodes](#gamemodes)
   * [Libraries](#libraries)
@@ -44,6 +45,8 @@ Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) f
   
 ## Packages and Plugins
 ### Admin
+### Mapping
+* [sandbox](https://github.com/dig/onset-sandbox-editor) - A sandbox editor which allows you to spawn objects or entities and save schematics and world.
 ### Minigames
 ### Gamemodes
 * [OnsetRP](https://github.com/frederic2ec/onsetrp) - A Roleplay framework, originally designed for [OnsetRPFR](#roleplay).
