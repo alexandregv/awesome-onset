@@ -16,7 +16,7 @@ A categorized community-driven collection of awesome [Onset](https://playonset.c
 Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
 
 
-## Contents
+## Table of Contents
 * [Packages and Plugins](#packages-and-plugins)
   * [Admin](#admin)
   * [Roleplay](#roleplay)
