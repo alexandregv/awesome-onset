@@ -11,46 +11,12 @@
 
 A categorized community-driven collection of awesome [Onset](https://playonset.com) packages, plugins, assets, tools and servers.
 
+
 ## Contribute
 Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
 
-## Contents
-* [Packages](#packages)
-  * [Package management](#packages-management)
-  * [Admin menu](#admin-menu)
-  * [Roleplay](#roleplay)
-  * [Misc packages](#misc-packages)
-* [Plugins](#plugins)
-  * [Misc plugins](#misc-plugins)
-* [Assets](#assets)
-  * [User Interfaces](#user-interfaces)
-  * [Misc assets](#misc-assets)
-* [Tools](#tools)
-  * [Websites](#websites)
-  * [Misc tools](#misc-tools)
-  
-## Packages
-### Packages management
-### Admin menu
-### Roleplay
-### Misc packages
-
----
-## Plugins
-### Misc plugins
-
----
-## Assets
-### User Interfaces
-### Misc assets
-
----
-## Tools
-### Websites
-### Misc tools
 
 ## Contents
- 
 * [Packages and Plugins](#packages-and-plugins)
   * [Admin](#admin)
   * [Roleplay](#roleplay)
@@ -75,6 +41,7 @@ Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) f
   * [BattleRoyale](#battleroyale)
   * [HideAndSeek or PropHunt](#hideandseek-or-prophunt)
   * [Other servers](#other-servers)
+
   
 ## Packages and Plugins
 ### Admin
