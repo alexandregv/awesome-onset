@@ -64,6 +64,7 @@ Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) f
 * [phone](https://github.com/rdlh/onset-phone) - A beautiful and powerful phone, made with VueJS.
 * [calculator](https://github.com/ShotenDev/Onset-calculator) - A simple calculator with a flat design.
 * [hands_up_system](https://github.com/ShotenDev/Onset-hands_up_system) - A simple system to put your hands up.
+* [WeatherSystem](https://github.com/MelonLe/WeatherSystem) - A weather system with a natural cycle and control commands.
 
 
 ## Assets
