@@ -52,6 +52,7 @@ Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) f
 * [sandbox](https://github.com/dig/onset-sandbox-editor) - A sandbox editor which allows you to spawn objects or entities and save schematics and world.
 * [world](https://github.com/dig/onset-world) - Load your world created with [sandbox](https://github.com/dig/onset-sandbox-editor) (previous package).
 ### Minigames
+* [race](https://github.com/BlueMountainsIO/OnsetLuaScripts/tree/master/race) - CAr race minigame (used in trailer).
 ### Gamemodes
 * [OnsetRP](https://github.com/frederic2ec/onsetrp) - A Roleplay framework, originally designed for [OnsetRPFR](#roleplay).
 * [GodFather](https://github.com/OnfireNetwork/godfather) - A gamemode that is based on the godfather gamemode from samp.
