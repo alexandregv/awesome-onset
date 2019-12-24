@@ -91,6 +91,7 @@ Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) f
 ### Websites
 * [OnsetServerSignature](https://github.com/BlueMountainsIO/OnsetServerSignature) - Display your Onset server with live stats as an image. [Demo here](https://server.playonset.com/?ipv4=137.74.233.213&port=7777).
 * [OnsetServerTools](https://onset-server.com/) - Server tools including config generator, weapons config generator and package config generator.
+* [AdminPanel](https://github.com/matt2210/Admin-Panel-Onset) - A web admin panel for the [onsetrp framework](https://github.com/frederic2ec/onsetrp). [Screenshots here](https://github.com/matt2210/Admin-Panel-Onset#screen).
 ### Softwares
 * [onset-docker](https://github.com/alexandregv/onset-docker) - Onset game server dockerized. Start a server with only one command.
 ### Other tools
