@@ -55,7 +55,7 @@ Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) f
 * [sandbox](https://github.com/dig/onset-sandbox-editor) - A sandbox editor which allows you to spawn objects or entities and save schematics and world.
 * [world](https://github.com/dig/onset-world) - Load your world created with [sandbox](https://github.com/dig/onset-sandbox-editor) (previous package).
 ### Minigames
-* [race](https://github.com/BlueMountainsIO/OnsetLuaScripts/tree/master/race) - CAr race minigame (used in trailer).
+* [race](https://github.com/BlueMountainsIO/OnsetLuaScripts/tree/master/race) - Car race minigame (used in trailer).
 ### Frameworks
 * [OnsetRP](https://github.com/frederic2ec/onsetrp) - A Roleplay framework, originally designed for [OnsetRPFR](#roleplay).
 * [OkayyFramework Basic](https://github.com/Kuzkay/OkayyNetwork/tree/master/OKAYY%20Framework%20Basic) - Basic version of OkayyFramework, used in [OkayyNetwork](http://okayy.network).
@@ -92,7 +92,7 @@ Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) f
 * [OnsetServerSignature](https://github.com/BlueMountainsIO/OnsetServerSignature) - Display your Onset server with live stats as an image. [Demo here](https://server.playonset.com/?ipv4=137.74.233.213&port=7777).
 * [OnsetServerTools](https://onset-server.com/) - Server tools including config generator, weapons config generator and package config generator.
 ### Softwares
-* [onset-docker](https://hub.docker.com/r/alexandregv/onset-server) - Onset game server dockerized. Start a server with only one command.
+* [onset-docker](https://github.com/alexandregv/onset-docker) - Onset game server dockerized. Start a server with only one command.
 ### Other tools
 
 
