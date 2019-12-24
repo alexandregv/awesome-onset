@@ -21,7 +21,7 @@ Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) f
   * [Admin](#admin)
   * [Mapping](#mapping)
   * [Minigames](#minigames)
-  * [Gamemodes](#gamemodes)
+  * [Frameworks](#frameworks)
   * [Libraries](#libraries)
   * [Other packages](#other-packages)
 * [Assets](#assets)
@@ -56,8 +56,9 @@ Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) f
 * [world](https://github.com/dig/onset-world) - Load your world created with [sandbox](https://github.com/dig/onset-sandbox-editor) (previous package).
 ### Minigames
 * [race](https://github.com/BlueMountainsIO/OnsetLuaScripts/tree/master/race) - CAr race minigame (used in trailer).
-### Gamemodes
+### Frameworks
 * [OnsetRP](https://github.com/frederic2ec/onsetrp) - A Roleplay framework, originally designed for [OnsetRPFR](#roleplay).
+* [OkayyFramework Basic](https://github.com/Kuzkay/OkayyNetwork/tree/master/OKAYY%20Framework%20Basic) - Basic version of OkayyFramework, used in [OkayyNetwork](http://okayy.network).
 * [GodFather](https://github.com/OnfireNetwork/godfather) - A gamemode that is based on the godfather gamemode from samp.
 * [onset_realistic_base](https://github.com/Wasied/onset_realistic_base) - A realistic roleplay base for Onset roleplaying.
 ### Libraries
