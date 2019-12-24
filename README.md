@@ -33,6 +33,9 @@ Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) f
   * [Websites](#websites)
   * [Softwares](#softwares)
   * [Other tools](#other-tools)
+* [Guides](#guides)
+  * [Text guides](#text-guides)
+  * [Video guides](#video-guides)
 * [Servers](#servers)
   * [Roleplay](#roleplay)
   * [Prison](#prison)
@@ -86,6 +89,12 @@ Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) f
 ### Softwares
 * [onset-docker](https://hub.docker.com/r/alexandregv/onset-server) - Onset game server dockerized. Start a server with only one command.
 ### Other tools
+
+
+## Guides
+### Text guides
+* [Dev Wiki](https://dev.playonset.com/wiki/Main_Page) - Official Onset Developer Wiki.
+### Video guides
 
 
 ## Servers
