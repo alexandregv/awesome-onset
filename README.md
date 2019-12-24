@@ -75,6 +75,7 @@ Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) f
 * [hands_up_system](https://github.com/ShotenDev/Onset-hands_up_system) - A simple system to put your hands up.
 * [WeatherSystem](https://github.com/MelonLe/WeatherSystem) - A weather system with a natural cycle and control commands.
 * [animation_wheel](https://github.com/MasterCedric/animation_wheel) - A simple wheel menu that is used to play animations in-game.
+* [ObjectInteraction](https://github.com/1NANO/Onset-ObjectInteraction) - A package that lets you pick objects to move them around or store them into your vehicle (visually).
 
 
 ## Assets
