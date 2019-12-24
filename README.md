@@ -95,6 +95,7 @@ Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) f
 ### Text guides
 * [Dev Wiki](https://dev.playonset.com/wiki/Main_Page) - Official Onset Developer Wiki.
 ### Video guides
+* [Onset Lua Scripting Tutorial playlist](https://www.youtube.com/playlist?list=PLvXRXgrNWWe7BBEdsCrNU03_YiaHnngZu) - Jan Bebendorf's playlist on onset lua scripting.
 
 
 ## Servers
