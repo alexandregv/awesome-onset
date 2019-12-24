@@ -76,7 +76,8 @@ Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) f
 ### 3D Models
 ### Sounds
 ### Other assets
-* [MapV5](https://www.dropbox.com/s/sypjsyl23mr0tp3/mapv5.png?dl=0) - A minimap (image) made by SalsiTV#&#x2060;3407.
+* [Official minimap](https://playonset.com/images/OnsetMapLayout_latest.png) - The official minimap made by Talos (orthographic camera view, 115MB).
+* [MapV5](https://www.dropbox.com/s/sypjsyl23mr0tp3/mapv5.png?dl=0) - A minimap made by SalsiTV#&#x2060;3407.
 
 
 ## External Tools
