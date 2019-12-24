@@ -89,6 +89,7 @@ Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) f
 ## External Tools
 ### Websites
 * [OnsetServerSignature](https://github.com/BlueMountainsIO/OnsetServerSignature) - Display your Onset server with live stats as an image. [Demo here](https://server.playonset.com/?ipv4=137.74.233.213&port=7777).
+* [OnsetServerTools](https://onset-server.com/) - Server tools including config generator, weapons config generator and package config generator.
 ### Softwares
 * [onset-docker](https://hub.docker.com/r/alexandregv/onset-server) - Onset game server dockerized. Start a server with only one command.
 ### Other tools
