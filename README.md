@@ -105,6 +105,7 @@ Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) f
 ## Guides
 ### Text guides
 * [Dev Wiki](https://dev.playonset.com/wiki/Main_Page) - Official Onset Developer Wiki.
+* [Modding guide](https://dev.playonset.com/wiki/Modding) - Modding section of the [dev wiki](https://dev.playonset.com/wiki/Main_Page).
 * [mTx server guide](https://mtxserv.com/fr/article/12379/creer_un_serveur_onset) - mTxServ's guide to make an Onset server. (French)
 * [mTx package guide](https://mtxserv.com/fr/article/12658/comment_creer_un_package_onset) - mTxServ's guide to make an Onset package. (French)
 ### Video guides
