@@ -70,6 +70,7 @@ Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) f
 * [trafficlights](https://github.com/BlueMountainsIO/OnsetLuaScripts/tree/master/trafficlights) - A library to create trafficlights.
 * [kuz_Notifications](https://github.com/Kuzkay/OkayyNetwork/tree/master/kuz_Notifications) - Notifications library from [OkayyFramework](https://github.com/Kuzkay/OkayyNetwork).
 * [kuz_UI](https://github.com/Kuzkay/OkayyNetwork/tree/master/kuz_UI) - User Interface library from [OkayyFramework](https://github.com/Kuzkay/OkayyNetwork).
+* [HTTP Library](https://github.com/dig/onset-http-library) - A basic HTTP library (right now), uses [JavaPlugin](https://github.com/OnfireNetwork/OnsetJavaPlugin).
 ### Other packages
 * [phone](https://github.com/rdlh/onset-phone) - A beautiful and powerful phone, made with VueJS.
 * [calculator](https://github.com/ShotenDev/Onset-calculator) - A simple calculator with a flat design.
