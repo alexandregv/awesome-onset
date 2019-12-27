@@ -50,11 +50,11 @@ Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) f
 ### Admin
 * [pkg](https://github.com/alexandregv/onset-pkg) - A package to manage your other packages (list/start/stop/restart/etc) with commands or keys. Useful for devs.
 * [adminMenu](https://github.com/AnthonyTCS/onset-adminMenu/) - Admin menu with kick/ban/spawn/noclip/teleport.
+* [Noclip](https://forum.playonset.com/forum/onset/scripting/releases/1504-noclip-script) - A basic noclip/fly package.
 ### Mapping
 * [default](https://github.com/BlueMountainsIO/OnsetLuaScripts/tree/master/default) - Default script to spawn doors and setup weapons.
 * [sandbox](https://github.com/dig/onset-sandbox-editor) - A sandbox editor which allows you to spawn objects or entities and save schematics and world.
 * [world](https://github.com/dig/onset-world) - Load your world created with [sandbox](https://github.com/dig/onset-sandbox-editor) (previous package).
-* [Noclip](https://forum.playonset.com/forum/onset/scripting/releases/1504-noclip-script) - A basic noclip/fly package.
 ### Minigames
 * [race](https://github.com/BlueMountainsIO/OnsetLuaScripts/tree/master/race) - Car race minigame (used in trailer).
 ### Frameworks
