@@ -86,6 +86,7 @@ Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) f
 ## Assets
 ### HUDs
 ### 3D Models
+* [Electric Charging station](https://kemset2.wixsite.com/monsite-1) - A charging station for electric vehicles.
 ### Sounds
 ### Other assets
 * [Official minimap](https://playonset.com/images/OnsetMapLayout_latest.png) - The official minimap made by Talos (orthographic camera view, 115MB).
