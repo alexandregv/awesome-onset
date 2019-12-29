@@ -88,6 +88,7 @@ Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) f
 ### HUDs
 ### 3D Models
 * [Electric Charging station](https://kemset2.wixsite.com/kemset) - A charging station for electric vehicles.
+* [Police Sign Pack](https://kemset2.wixsite.com/kemset) - A pack of multiple police signs, allowing you to transform any building into a police station.
 ### Sounds
 ### Other assets
 * [Official minimap](https://playonset.com/images/OnsetMapLayout_latest.png) - The official minimap made by Talos (orthographic camera view, 115MB).
