@@ -81,7 +81,8 @@ Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) f
 * [ObjectInteraction](https://github.com/1NANO/Onset-ObjectInteraction) - A package that lets you pick objects to move them around or store them into your vehicle (visually).
 * [Music Radio](https://forum.playonset.com/forum/onset/scripting/releases/1503-ingame-radio-music-in-cars-while-on-the-road) - Ingame Radio - Music in cars while on the road!
 * [Ragdoll](https://forum.playonset.com/forum/onset/scripting/releases/1499-tazer-ragdoll-tazer-actually-working) - Taser with effetcs!
-* [SeatD](https://forum.playonset.com/forum/onset/scripting/releases/1459-seatd-change-places-in-the-vehicle-without-leaving-there) - Change places in the vehicle without leaving there! 
+* [SeatD](https://forum.playonset.com/forum/onset/scripting/releases/1459-seatd-change-places-in-the-vehicle-without-leaving-there) - Change places in the vehicle without leaving there!
+* (Pinmap)(https://github.com/Pindrought/pinmap) - A minimap with a current position indicator.
 
 
 ## Assets
