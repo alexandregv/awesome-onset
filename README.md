@@ -94,7 +94,7 @@ Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) f
 ### Other assets
 * [Official minimap](https://playonset.com/images/OnsetMapLayout_latest.png) - The official minimap made by Talos (orthographic camera view, 115MB).
 * [MapV5](https://www.dropbox.com/s/sypjsyl23mr0tp3/mapv5.png?dl=0) - A minimap made by SalsiTV#&#x2060;3407.
-
+* [Real weapon names](https://github.com/SphinxReal/onset-realweapon) - A weapons.json file with the real names.
 
 ## External Tools
 ### Websites
