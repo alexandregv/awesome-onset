@@ -107,6 +107,7 @@ Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) f
 * [AdminPanel](https://github.com/matt2210/Admin-Panel-Onset) - A web admin panel for the [onsetrp framework](https://github.com/frederic2ec/onsetrp). [Screenshots here](https://github.com/matt2210/Admin-Panel-Onset#screenshots).
 ### Softwares
 * [onset-docker](https://github.com/alexandregv/onset-docker) - Onset game server dockerized. Start a server with only one command.
+* [pWatcher](https://github.com/DoctorWhoFR/OnsetPWatcher) - A file watcher which automatically adds your packages files to package.json. [Demo here](https://www.youtube.com/watch?v=t9MQvapv9o4&feature=youtu.be&t=161).
 ### Other tools
 
 
