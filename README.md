@@ -114,8 +114,10 @@ Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) f
 * [mTx server guide](https://mtxserv.com/fr/article/12379/creer_un_serveur_onset) - mTxServ's guide to make an Onset server. (French)
 * [mTx package guide](https://mtxserv.com/fr/article/12658/comment_creer_un_package_onset) - mTxServ's guide to make an Onset package. (French)
 ### Video guides
-* [Onset Lua Scripting Tutorial playlist](https://www.youtube.com/playlist?list=PLvXRXgrNWWe7BBEdsCrNU03_YiaHnngZu) - Jan Bebendorf's playlist on onset lua scripting.
+* [
+Jan Bebendorf's playlist](https://www.youtube.com/playlist?list=PLvXRXgrNWWe7BBEdsCrNU03_YiaHnngZu) - Jan Bebendorf's playlist on onset lua scripting.
 * [Modding from 3DS MAX](https://www.youtube.com/watch?v=huiDdRx1ebQ) - How to convert mods from 3ds max to Onset (Detailed).
+* [open mailbox's playlist](https://www.youtube.com/playlist?list=PLWwpWHO_HMvBvs9SceUlzClOvul0a_LeO) - Onset Coding Tutorials by [open mailbox](https://www.youtube.com/channel/UC-QU331TYpMrhlZXK9g2nzw).
 
 
 ## Servers
