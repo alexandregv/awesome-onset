@@ -84,6 +84,7 @@ Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) f
 * [SeatD](https://forum.playonset.com/forum/onset/scripting/releases/1459-seatd-change-places-in-the-vehicle-without-leaving-there) - Change places in the vehicle without leaving there!
 * [Pinmap](https://github.com/Pindrought/pinmap) - A minimap with a current position indicator.
 * [vUtils](https://github.com/Leobrtl/vutils) - Useful vehicle utilities (lights, radio, engine, seats).
+* [Plate and Light](https://github.com/ezezbot/plate-and-light) - A simple package adding customisable cars plates and lights.
 
 
 ## Assets
