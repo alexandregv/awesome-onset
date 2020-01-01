@@ -109,6 +109,7 @@ Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) f
 * [onset-docker](https://github.com/alexandregv/onset-docker) - Onset game server dockerized. Start a server with only one command.
 * [pWatcher](https://github.com/DoctorWhoFR/OnsetPWatcher) - A file watcher which automatically adds your packages files to package.json. [Demo here](https://www.youtube.com/watch?v=t9MQvapv9o4&feature=youtu.be&t=161).
 ### Other tools
+* [VSCode snippets](https://marketplace.visualstudio.com/items?itemName=zoukidev.vscode-olua) - Some nice VSCode snippets (autocompletion) for Onset Lua functions.
 
 
 ## Guides
