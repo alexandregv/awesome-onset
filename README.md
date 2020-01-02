@@ -84,7 +84,7 @@ Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) f
 * [Music Radio](https://forum.playonset.com/forum/onset/scripting/releases/1503-ingame-radio-music-in-cars-while-on-the-road) - Ingame Radio - Music in cars while on the road!
 * [Ragdoll](https://forum.playonset.com/forum/onset/scripting/releases/1499-tazer-ragdoll-tazer-actually-working) - Taser with effetcs!
 * [SeatD](https://forum.playonset.com/forum/onset/scripting/releases/1459-seatd-change-places-in-the-vehicle-without-leaving-there) - Change places in the vehicle without leaving there!
-* [Pinmap](https://github.com/Pindrought/pinmap) - A minimap with a current position indicator.
+* [Pinmap](https://github.com/Pindrought/pinmap) - A minimap with indicators for current position, special locations, other players, etc. Also allows to teleport. 
 * [vUtils](https://github.com/Leobrtl/vutils) - Useful vehicle utilities (lights, radio, engine, seats).
 * [Plate and Light](https://github.com/ezezbot/plate-and-light) - A simple package adding customisable cars plates and lights.
 * [ragP](https://github.com/Bad57/ragP) - A package allowing to ragdoll a player when he ejects from a moving vehicle.
