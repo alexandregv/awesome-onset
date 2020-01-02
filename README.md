@@ -88,6 +88,7 @@ Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) f
 * [vUtils](https://github.com/Leobrtl/vutils) - Useful vehicle utilities (lights, radio, engine, seats).
 * [Plate and Light](https://github.com/ezezbot/plate-and-light) - A simple package adding customisable cars plates and lights.
 * [ragP](https://github.com/Bad57/ragP) - A package allowing to ragdoll a player when he ejects from a moving vehicle.
+* [Preact boilerplate](https://github.com/openface/onset-preact-boilerplate) - [Preact](https://preactjs.com/) UI integration example 
 
 
 ## Assets
