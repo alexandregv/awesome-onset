@@ -59,6 +59,7 @@ Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) f
 * [construction](https://github.com/vugi99/onset-construction) - A construction tool with a grid system. [Demo here](https://cdn.discordapp.com/attachments/656550879176163329/661532924285419531/onset-cons-last.mp4).
 ### Minigames
 * [race](https://github.com/BlueMountainsIO/OnsetLuaScripts/tree/master/race) - Car race minigame (used in trailer).
+* [Zombies](https://forum.playonset.com/forum/onset/scripting/releases/1601-zombies) - A gamemode with zombies spawning and attacking players.
 ### Frameworks
 * [OnsetRP](https://github.com/frederic2ec/onsetrp) - A Roleplay framework, originally designed for [OnsetRPFR](#roleplay).
 * [OkayyFramework Basic](https://github.com/Kuzkay/OkayyNetwork/tree/master/OKAYY%20Framework%20Basic) - Basic version of OkayyFramework, used in [OkayyNetwork](http://okayy.network).
