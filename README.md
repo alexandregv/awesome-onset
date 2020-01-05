@@ -89,6 +89,7 @@ Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) f
 * [Plate and Light](https://github.com/ezezbot/plate-and-light) - A simple package adding customisable cars plates and lights.
 * [ragP](https://github.com/Bad57/ragP) - A package allowing to ragdoll a player when he ejects from a moving vehicle.
 * [Preact boilerplate](https://github.com/openface/onset-preact-boilerplate) - [Preact](https://preactjs.com/) UI integration example 
+* [ID Card](https://github.com/SphinxReal/idcard-onset) - An ID Card based on [onsetrp id card](https://github.com/frederic2ec/onsetrp/tree/master/idcard).
 
 
 ## Assets
