@@ -53,6 +53,7 @@ Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) f
 * [noclip](https://forum.playonset.com/forum/onset/scripting/releases/1504-noclip-script) - A basic noclip/fly package.
 * [whitelist](https://github.com/alexandregv/onset-whitelist) - A whitelist handling SteamIDs and Usernames (and IP soon).
 * [modmenu](https://forum.playonset.com/forum/onset/scripting/releases/1521-onset-mod-menu-rp-sandbox-administration-is-not-cheat) - A menu for admins allowing to set health/armor, spawn vehicles, teleport, set spawn, etc.
+* [Zeus](https://github.com/DasDarki/onset-zeus) - A module-based powerful admin tool, including a permissions system and an API.
 ### Mapping
 * [default](https://github.com/BlueMountainsIO/OnsetLuaScripts/tree/master/default) - Default script to spawn doors and setup weapons.
 * [sandbox](https://github.com/dig/onset-sandbox-editor) - A sandbox editor which allows you to spawn objects or entities and save schematics and world.
