@@ -67,6 +67,7 @@ Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) f
 * [OkayyFramework Basic](https://github.com/Kuzkay/OkayyNetwork/tree/master/OKAYY%20Framework%20Basic) - Basic version of OkayyFramework, used in [OkayyNetwork](http://okayy.network).
 * [GodFather](https://github.com/OnfireNetwork/godfather) - A gamemode that is based on the godfather gamemode from samp.
 * [onset_realistic_base](https://github.com/Wasied/onset_realistic_base) - A realistic roleplay base for Onset roleplaying.
+* [Deathmatch](https://github.com/DKFN/ogk_gg) - The Deathmatch/GunGame gamemode of [OGK](https://forum.playonset.com/forum/onset/server-advertisement/1298-ogk-onset-gaming-kommunity).
 ### Libraries
 * [camera-library](https://github.com/dig/onset-camera-library) - A library to control camera. Allows to set camera to pan a location and to set camera on paths.
 * [data](https://github.com/dig/onset-data) - A library which adds weapons/vehicles class names and useful functions.
