@@ -78,6 +78,7 @@ Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) f
 * [kuz_UI](https://github.com/Kuzkay/OkayyNetwork/tree/master/kuz_UI) - User Interface library from [OkayyFramework](https://github.com/Kuzkay/OkayyNetwork).
 * [HTTP Library](https://github.com/dig/onset-http-library) - A basic HTTP library, uses [JavaPlugin](https://github.com/OnfireNetwork/OnsetJavaPlugin) (not maintained).
 * [HTTP Plugin](https://github.com/dig/onset-http-plugin) - A powerful HTTP plugin (replaces [HTTP Library](https://github.com/dig/onset-http-library)).
+* [UIFramework](https://github.com/FlowPX3/UIFramework) - A powerful and beautiful UI framework/library.
 ### Other packages
 * [phone](https://github.com/rdlh/onset-phone) - A beautiful and powerful phone, made with VueJS.
 * [calculator](https://github.com/ShotenDev/Onset-calculator) - A simple calculator with a flat design.
