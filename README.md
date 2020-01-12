@@ -98,6 +98,7 @@ Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) f
 * [ID Card](https://github.com/SphinxReal/idcard-onset) - An ID Card based on [onsetrp id card](https://github.com/frederic2ec/onsetrp/tree/master/idcard).
 * [Localized Damages](https://forum.playonset.com/forum/onset/scripting/releases/1589-localized-damages) - A simple localized damage implementation working on both NPCs and Players.
 * [Burdigalax GUI](https://github.com/Burdigalax/BurdigalaxGUI) - Beautiful React GUI for shop, gas station and inventory. 
+* [Pickndrop](https://github.com/GalaxHD551/OnsetRp/tree/master/pickndropV2) - Allows you to drop and pick up weapons on the ground. [Demo here](https://www.youtube.com/watch?v=aedzgBptER4).
 
 
 ## Assets
