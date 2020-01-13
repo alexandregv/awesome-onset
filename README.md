@@ -100,6 +100,7 @@ Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) f
 * [Burdigalax GUI](https://github.com/Burdigalax/BurdigalaxGUI) - Beautiful React GUI for shop, gas station and inventory. 
 * [Pickndrop](https://github.com/GalaxHD551/OnsetRp/tree/master/pickndropV2) - Allows you to drop and pick up weapons on the ground. [Demo here](https://www.youtube.com/watch?v=aedzgBptER4).
 * [Jobs](https://github.com/Bad57/Onset-Jobs) - Customisable jobs system. Provides defaults jobs and allows you to create your own.
+* [Groups](https://github.com/Bad57/Onset-Groups) - Customisable groups system based on player [job](https://github.com/Bad57/Onset-Jobs). 
 
 
 ## Assets
