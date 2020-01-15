@@ -102,6 +102,7 @@ Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) f
 * [Jobs](https://github.com/Bad57/Onset-Jobs) - Customisable jobs system. Provides defaults jobs and allows you to create your own.
 * [Groups](https://github.com/Bad57/Onset-Groups) - Customisable groups system based on player [job](https://github.com/Bad57/Onset-Jobs). 
 * [Pickups](https://github.com/TimUK/OnsetPickups) - Allows you to create player health and vehicle repair pickups wherever you like, saved upon server restart.
+* [DayCycle](https://github.com/TimUK/OnsetDayCycle) - A day/night cycle system that is standalone and can be used in any game mode.
 
 
 ## Assets
