@@ -107,6 +107,7 @@ Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) f
 * [Pickups](https://github.com/TimUK/OnsetPickups) - Allows you to create player health and vehicle repair pickups wherever you like, saved upon server restart.
 * [DayCycle](https://github.com/TimUK/OnsetDayCycle) - A day/night cycle system that is standalone and can be used in any game mode.
 * [OnsetFM](https://github.com/BigMistake/OnsetFM) - Add a radio to your cars! OnsetFM let's you add streams and tracks ingame to play in cars as a radio.
+* [Climb](https://github.com/vugi99/onset-climb) - A simple package to climb small objects with a client-side script.
 
 
 ## Assets
