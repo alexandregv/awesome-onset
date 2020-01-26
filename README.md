@@ -109,6 +109,8 @@ Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) f
 * [DayCycle](https://github.com/TimUK/OnsetDayCycle) - A day/night cycle system that is standalone and can be used in any game mode.
 * [OnsetFM](https://github.com/BigMistake/OnsetFM) - Add a radio to your cars! OnsetFM let's you add streams and tracks ingame to play in cars as a radio.
 * [Climb](https://github.com/vugi99/onset-climb) - A simple package to climb small objects with a client-side script.
+* [Spectate](https://github.com/vugi99/onset-spectate) - Allows you to spectate other players with commands.
+
 
 
 ## Assets
