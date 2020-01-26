@@ -153,6 +153,7 @@ Jan Bebendorf's playlist](https://www.youtube.com/playlist?list=PLvXRXgrNWWe7BBE
 ### Roleplay
 * [OkayyNetwork](http://okayy.network/) - One of the very first server networks. For now it only has RP, but other gamemodes like CrimeCity, PrisonRP and MiniGames are planned. (English)
 * [SolidRP](https://solidrp.fr/) - An advanced RP server leveraging strong plugins. (French)
+* [BalanceRP](https://balancerp.com) - An advanced roleplay server with daily updates. (English)
 - [OnsetRPFR](https://discord.gg/onsetrpfr) - [Aiekillu](https://www.youtube.com/channel/UCUnmE4hrEF__A6jE9G5uX8g)'s server. Current server with the most players. Very fast development. (French)
 ### Prison
 ### Murder
