@@ -111,7 +111,7 @@ Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) f
 * [OnsetFM](https://github.com/BigMistake/OnsetFM) - Add a radio to your cars! OnsetFM let's you add streams and tracks ingame to play in cars as a radio.
 * [Climb](https://github.com/vugi99/onset-climb) - A simple package to climb small objects with a client-side script.
 * [Spectate](https://github.com/vugi99/onset-spectate) - Allows you to spectate other players with commands.
-
+* [Map](https://github.com/dictateurfou/onsetMap) - A GTA-style map.
 
 
 ## Assets
@@ -124,6 +124,7 @@ Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) f
 * [Official minimap](https://playonset.com/images/OnsetMapLayout_latest.png) - The official minimap made by Talos (orthographic camera view, 115MB).
 * [MapV5](https://www.dropbox.com/s/sypjsyl23mr0tp3/mapv5.png?dl=0) - A minimap made by SalsiTV#&#x2060;3407.
 * [Real weapon names](https://github.com/SphinxReal/onset-realweapon) - A weapons.json file with the real names.
+
 
 ## External Tools
 ### Websites
