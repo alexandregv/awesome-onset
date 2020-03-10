@@ -36,20 +36,22 @@ Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) f
 * [Guides](#guides)
   * [Text guides](#text-guides)
   * [Video guides](#video-guides)
+* [Tutorials](#tutorials)
+* [Where to find support ?](#where-to-find-support-)
 * [Servers](#servers)
   * [Roleplay](#roleplay)
   * [Prison](#prison)
   * [Murder](#murder)
   * [Quake](#quake)
   * [BattleRoyale](#battleroyale)
-  * [HideAndSeek or PropHunt](#hideandseek-or-prophunt)
+  * [Hide and Seek or Prop Hunt](#hideandseek-or-prophunt)
   * [Other servers](#other-servers)
 
-  
+
 ## Packages and Plugins
 ### Admin
 * [pkg](https://github.com/alexandregv/onset-pkg) - A package to manage your other packages (list/start/stop/restart/etc) with commands or keys. Useful for devs.
-* [adminMenu](https://github.com/AnthonyTCS/onset-adminMenu/) - Admin menu with kick/ban/spawn/noclip/teleport.
+* [admin Menu](https://github.com/AnthonyTCS/onset-adminMenu/) - Admin menu with kick/ban/spawn/noclip/teleport.
 * [noclip](https://forum.playonset.com/forum/onset/scripting/releases/1504-noclip-script) - A basic noclip/fly package.
 * [whitelist](https://github.com/alexandregv/onset-whitelist) - A whitelist handling SteamIDs and Usernames (and IP soon).
 * [modmenu](https://forum.playonset.com/forum/onset/scripting/releases/1521-onset-mod-menu-rp-sandbox-administration-is-not-cheat) - A menu for admins allowing to set health/armor, spawn vehicles, teleport, set spawn, etc.
@@ -59,36 +61,36 @@ Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) f
 * [sandbox](https://github.com/dig/onset-sandbox-editor) - A sandbox editor which allows you to spawn objects or entities and save schematics and world.
 * [world](https://github.com/dig/onset-world) - Load your world created with [sandbox](https://github.com/dig/onset-sandbox-editor) (previous package).
 * [construction](https://github.com/vugi99/onset-construction) - A construction tool with a grid system. [Demo here](https://cdn.discordapp.com/attachments/656550879176163329/661532924285419531/onset-cons-last.mp4).
-* [OnniteBuilding](https://github.com/Dadadah/onnitebuilding) - A package that enables building in a style similar to Fortnite.
+* [Onnite Building](https://github.com/Dadadah/onnitebuilding) - A package that enables building in a style similar to Fortnite.
 ### Minigames
 * [race](https://github.com/BlueMountainsIO/OnsetLuaScripts/tree/master/race) - Car race minigame (used in trailer).
 * [Zombies](https://forum.playonset.com/forum/onset/scripting/releases/1601-zombies) - A gamemode with zombies spawning and attacking players.
 * [Alien Invasion!](https://github.com/openface/onset-alien-invasion) - Avoid aggresive aliens while capturing loot boxes and satellite equipment before the mothership lands!
 * [racing](https://github.com/vugi99/onset-racing) - A race minigame alternative.
 ### Frameworks
-* [OnsetRP](https://github.com/frederic2ec/onsetrp) - A Roleplay framework, originally designed for [OnsetRPFR](#roleplay).
+* [Onset RP](https://github.com/frederic2ec/onsetrp) - A Roleplay framework, originally designed for [OnsetRPFR](#roleplay).
 * [OkayyFramework Basic](https://github.com/Kuzkay/OkayyNetwork/tree/master/OKAYY%20Framework%20Basic) - Basic version of OkayyFramework, used in [OkayyNetwork](http://okayy.network).
-* [GodFather](https://github.com/OnfireNetwork/godfather) - A gamemode that is based on the godfather gamemode from samp.
+* [God Father](https://github.com/OnfireNetwork/godfather) - A gamemode that is based on the godfather gamemode from samp.
 * [onset_realistic_base](https://github.com/Yuukeo/onset_realistic_base) - A realistic roleplay base for Onset roleplaying.
 * [Deathmatch](https://github.com/DKFN/ogk_gg) - The Deathmatch/GunGame gamemode of [OGK](https://forum.playonset.com/forum/onset/server-advertisement/1298-ogk-onset-gaming-kommunity).
 * [Flood Gamemode](https://github.com/vugi99/onset-flood-gamemode) - A flood gamemode for Onset.
 ### Libraries
-* [JavaPlugin](https://github.com/OnfireNetwork/OnsetJavaPlugin) - Java wrapper, allows to create packages coded in Java.
+* [Java Plugin](https://github.com/OnfireNetwork/OnsetJavaPlugin) - Java wrapper, allows to create packages coded in Java.
 * [COW](https://github.com/OnsetCOW/COW) - Onset C# Wrapper, allows to create packages coded in C#.
 * [camera-library](https://github.com/dig/onset-camera-library) - A library to control camera. Allows to set camera to pan a location and to set camera on paths.
 * [data](https://github.com/dig/onset-data) - A library which adds weapons/vehicles class names and useful functions.
 * [i18n](https://github.com/OnfireNetwork/i18n) - Internationalization framework for onset packages.
 * [dialogui](https://github.com/OnfireNetwork/dialogui) - A very simple ui system for basic dialogs in Onset.
-* [trafficlights](https://github.com/BlueMountainsIO/OnsetLuaScripts/tree/master/trafficlights) - A library to create trafficlights.
-* [kuz_Notifications](https://github.com/Kuzkay/OkayyNetwork/tree/master/kuz_Notifications) - Notifications library from [OkayyFramework](https://github.com/Kuzkay/OkayyNetwork).
-* [kuz_UI](https://github.com/Kuzkay/OkayyNetwork/tree/master/kuz_UI) - User Interface library from [OkayyFramework](https://github.com/Kuzkay/OkayyNetwork).
+* [traffic lights](https://github.com/BlueMountainsIO/OnsetLuaScripts/tree/master/trafficlights) - A library to create trafficlights.
+* [Kuz_Notifications](https://github.com/Kuzkay/OkayyNetwork/tree/master/kuz_Notifications) - Notifications library from [OkayyFramework](https://github.com/Kuzkay/OkayyNetwork).
+* [Kuz_UI](https://github.com/Kuzkay/OkayyNetwork/tree/master/kuz_UI) - User Interface library from [OkayyFramework](https://github.com/Kuzkay/OkayyNetwork).
 * [HTTP Library](https://github.com/dig/onset-http-library) - A basic HTTP library, uses [JavaPlugin](https://github.com/OnfireNetwork/OnsetJavaPlugin) (not maintained).
 * [HTTP Plugin](https://github.com/dig/onset-http-plugin) - A powerful HTTP plugin (replaces [HTTP Library](https://github.com/dig/onset-http-library)).
-* [UIFramework](https://github.com/FlowPX3/UIFramework) - A powerful and beautiful UI framework/library.
-### Other packages
+* [UI Framework](https://github.com/FlowPX3/UIFramework) - A powerful and beautiful UI framework/library.
+### Other Packages
 * [ingame-editor](https://github.com/openface/onset-ingame-editor) - An ingame code editor development tool for Onset.
-* [phone](https://github.com/rdlh/onset-phone) - A beautiful and powerful phone, made with VueJS.
-* [calculator](https://github.com/ShotenDev/Onset-calculator) - A simple calculator with a flat design.
+* [Phone](https://github.com/rdlh/onset-phone) - A beautiful and powerful phone, made with VueJS.
+* [Calculator](https://github.com/ShotenDev/Onset-calculator) - A simple calculator with a flat design.
 * [hands_up_system](https://github.com/ShotenDev/Onset-hands_up_system) - A simple system to put your hands up.
 * [WeatherSystem](https://github.com/MelonLe/WeatherSystem) - A weather system with a natural cycle and control commands.
 * [animation_wheel](https://github.com/MasterCedric/animation_wheel) - A simple wheel menu that is used to play animations in-game.
@@ -130,11 +132,11 @@ Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) f
 
 ## External Tools
 ### Websites
-* [OnsetServerSignature](https://github.com/BlueMountainsIO/OnsetServerSignature) - Display your Onset server with live stats as an image. [Demo here](https://server.playonset.com/?ipv4=137.74.233.213&port=7777).
-* [OnsetServerTools](https://onset-server.com/) - Server tools including config generator, weapons config generator and package config generator.
-* [AdminPanel](https://github.com/matt2210/Admin-Panel-Onset) - A web admin panel for the [onsetrp framework](https://github.com/frederic2ec/onsetrp). [Screenshots here](https://github.com/matt2210/Admin-Panel-Onset#screenshots).
-* [TopServeurs Onset](https://top-serveurs.net/onset) - A list of the best french Onset servers ranked by votes.
-* [ObjectSearch](https://onsetfreeroam.com/objectsearch/) - Online browsable object list, searchable by name or ID.
+* [Onset Server Signature](https://github.com/BlueMountainsIO/OnsetServerSignature) - Display your Onset server with live stats as an image. [Demo here](https://server.playonset.com/?ipv4=137.74.233.213&port=7777).
+* [Onset Server Tools](https://onset-server.com/) - Server tools including config generator, weapons config generator and package config generator.
+* [Admin Panel](https://github.com/matt2210/Admin-Panel-Onset) - A web admin panel for the [onsetrp framework](https://github.com/frederic2ec/onsetrp). [Screenshots here](https://github.com/matt2210/Admin-Panel-Onset#screenshots).
+* [Top Serveurs Onset](https://top-serveurs.net/onset) - A list of the best french Onset servers ranked by votes.
+* [Object Search](https://onsetfreeroam.com/objectsearch/) - Online browsable object list, searchable by name or ID.
 ### Softwares
 * [onset-docker](https://github.com/alexandregv/onset-docker) - Onset game server dockerized. Start a server with only one command.
 * [pWatcher](https://github.com/DoctorWhoFR/OnsetPWatcher) - A file watcher which automatically adds your packages files to package.json. [Demo here](https://www.youtube.com/watch?v=t9MQvapv9o4&feature=youtu.be&t=161).
@@ -149,10 +151,23 @@ Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) f
 * [mTx server guide](https://mtxserv.com/fr/article/12379/creer_un_serveur_onset) - mTxServ's guide to make an Onset server. (French)
 * [mTx package guide](https://mtxserv.com/fr/article/12658/comment_creer_un_package_onset) - mTxServ's guide to make an Onset package. (French)
 ### Video guides
-* [
-Jan Bebendorf's playlist](https://www.youtube.com/playlist?list=PLvXRXgrNWWe7BBEdsCrNU03_YiaHnngZu) - Jan Bebendorf's playlist on onset lua scripting.
+* [Jan Bebendorf's playlist](https://www.youtube.com/playlist?list=PLvXRXgrNWWe7BBEdsCrNU03_YiaHnngZu) - Jan Bebendorf's playlist on onset lua scripting.
 * [Modding from 3DS MAX](https://www.youtube.com/watch?v=huiDdRx1ebQ) - How to convert mods from 3ds max to Onset (Detailed).
 * [open mailbox's playlist](https://www.youtube.com/playlist?list=PLWwpWHO_HMvBvs9SceUlzClOvul0a_LeO) - Onset Coding Tutorials by [open mailbox](https://www.youtube.com/channel/UC-QU331TYpMrhlZXK9g2nzw).
+
+
+## Tutorials
+* [Jan Bebendorf](https://www.youtube.com/watch?v=zmGGCxV2Li8&list=PLvXRXgrNWWe7BBEdsCrNU03_YiaHnngZu) - A complete tutorial with car lock system, and database connection.
+* [Open Mailbox](https://www.youtube.com/watch?v=6ShqEIQyj60) - Tutorial on Hello World, how to connect to a database, and user interface.
+* [Server Installation FR](https://www.youtube.com/watch?v=xmKRKvlTFtU) - 🇫🇷 Learn how to install an Onset serveur on Windows.
+* [Microphone BUG](https://www.youtube.com/watch?v=f1wVhv5DwoY) - Resolve how to fix microphone issues in Onset.
+* [3DS Max modding](https://www.youtube.com/watch?v=huiDdRx1ebQ) - Learn how to convert mods from 3DS Max to Onset
+
+
+## Where to find support ?
+* [Official Onset's Discord](https://discord.gg/jgmVKVP) - Find support in #questions and #scripting channels.
+* [Onset RP FR](https://discord.gg/9sSXYYu) - A french Discord where you can find support in French.
+* [Frederic2ec's Discord](https://discord.gg/GUSeJBz) - A Discord where you can find support for OnsetRP Framework
 
 
 ## Servers
@@ -160,13 +175,19 @@ Jan Bebendorf's playlist](https://www.youtube.com/playlist?list=PLvXRXgrNWWe7BBE
 * [OkayyNetwork](http://okayy.network/) - One of the very first server networks. For now it only has RP, but other gamemodes like CrimeCity, PrisonRP and MiniGames are planned. (English)
 * [SolidRP](https://solidrp.fr/) - An advanced RP server leveraging strong plugins. (French)
 * [BalanceRP](https://balancerp.com) - An advanced roleplay server with daily updates. (English)
-- [OnsetRPFR](https://discord.gg/onsetrpfr) - [Aiekillu](https://www.youtube.com/channel/UCUnmE4hrEF__A6jE9G5uX8g)'s server. Current server with the most players. Very fast development. (French)
+* [OnsetRPFR](https://discord.gg/onsetrpfr) - [Aiekillu](https://www.youtube.com/channel/UCUnmE4hrEF__A6jE9G5uX8g)'s server. Current server with the most players. Very fast development. (French)
 ### Prison
+* -
 ### Murder
+* -
 ### Quake
-### BattleRoyale
-### HideAndSeek or PropHunt
-### Other servers
+* -
+### Battle Royale
+* -
+### Hide and Seek or Prop Hunt
+* -
+### Other Servers
+* -
 
 
 ---
