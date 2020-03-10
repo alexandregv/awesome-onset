@@ -177,17 +177,17 @@ Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) f
 * [BalanceRP](https://balancerp.com) - An advanced roleplay server with daily updates. (English)
 * [OnsetRPFR](https://discord.gg/onsetrpfr) - [Aiekillu](https://www.youtube.com/channel/UCUnmE4hrEF__A6jE9G5uX8g)'s server. Current server with the most players. Very fast development. (French)
 ### Prison
-* -
+*
 ### Murder
-* -
+*
 ### Quake
-* -
+*
 ### Battle Royale
-* -
+*
 ### Hide and Seek or Prop Hunt
-* -
+*
 ### Other Servers
-* -
+*
 
 
 ---
