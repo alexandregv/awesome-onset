@@ -57,6 +57,7 @@ Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) f
 ### Mapping
 * [default](https://github.com/BlueMountainsIO/OnsetLuaScripts/tree/master/default) - Default script to spawn doors and setup weapons.
 * [sandbox](https://github.com/dig/onset-sandbox-editor) - A sandbox editor which allows you to spawn objects or entities and save schematics and world.
+* [sandbox 2](https://github.com/AliLogic/onset-sandbox-editor) - An enhanced fork of [sandbox-editor](https://github.com/dig/onset-sandbox-editor).
 * [world](https://github.com/dig/onset-world) - Load your world created with [sandbox](https://github.com/dig/onset-sandbox-editor) (previous package).
 * [construction](https://github.com/vugi99/onset-construction) - A construction tool with a grid system. [Demo here](https://cdn.discordapp.com/attachments/656550879176163329/661532924285419531/onset-cons-last.mp4).
 * [OnniteBuilding](https://github.com/Dadadah/onnitebuilding) - A package that enables building in a style similar to Fortnite.
