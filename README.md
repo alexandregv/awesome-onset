@@ -114,6 +114,7 @@ Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) f
 * [Climb](https://github.com/vugi99/onset-climb) - A simple package to climb small objects with a client-side script.
 * [Spectate](https://github.com/vugi99/onset-spectate) - Allows you to spectate other players with commands.
 * [Map](https://github.com/dictateurfou/onsetMap) - A GTA-style map.
+* [Tanks](https://github.com/vugi99/onset-tanks) - Add tanks, spawnable via command or lua functions.
 
 
 ## Assets
