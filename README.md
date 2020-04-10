@@ -87,6 +87,7 @@ Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) f
 * [HTTP Plugin](https://github.com/dig/onset-http-plugin) - A powerful HTTP plugin (replaces [HTTP Library](https://github.com/dig/onset-http-library)).
 * [UIFramework](https://github.com/FlowPX3/UIFramework) - A powerful and beautiful UI framework/library.
 * [MogZones](https://github.com/AlexMog/Onset-MogZones) - A Zones collision system (player enters and exits a zone).
+* [GetOS](https://gist.github.com/vugi99/878f68a1f3953840090f285c417c7482) - A code snippet to detect OS from lua script.
 ### Other packages
 * [ingame-editor](https://github.com/openface/onset-ingame-editor) - An ingame code editor development tool for Onset.
 * [phone](https://github.com/rdlh/onset-phone) - A beautiful and powerful phone, made with VueJS.
