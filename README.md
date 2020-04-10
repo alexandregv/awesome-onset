@@ -115,6 +115,7 @@ Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) f
 * [Spectate](https://github.com/vugi99/onset-spectate) - Allows you to spectate other players with commands.
 * [Map](https://github.com/dictateurfou/onsetMap) - A GTA-style map.
 * [Tanks](https://github.com/vugi99/onset-tanks) - Add tanks, spawnable via command or lua functions.
+* [Player speed](https://github.com/vugi99/onset-player-speed) - A small clientside script to change the player speed.
 
 
 ## Assets
