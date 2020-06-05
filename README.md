@@ -76,6 +76,7 @@ Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) f
 * [Flood Gamemode](https://github.com/vugi99/onset-flood-gamemode) - A flood gamemode for Onset.
 * [ORP Framework](https://github.com/Dimmies/ORP-Framework) - RP framework to give people a starting platform for creating servers.
 * [ORP Plus](https://github.com/llnd/ORP-Plus) - Enhanced version of ORP Framework (previous one).
+* [Conquest](https://github.com/vugi99/onset-conquest) - In this gamemode you need to capture the flags. The first team at 0 points will loose.
 ### Libraries
 * [JavaPlugin](https://github.com/OnfireNetwork/OnsetJavaPlugin) - Java wrapper, allows to create packages coded in Java.
 * [COW](https://github.com/OnsetCOW/COW) - Onset C# Wrapper, allows to create packages coded in C#.
