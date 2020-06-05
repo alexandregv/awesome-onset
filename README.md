@@ -131,6 +131,7 @@ Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) f
 * [networked-clothes](https://github.com/vugi99/onset-networked-clothes) - Set networked (synced) clothes.
 * [Weapon Patch](https://github.com/Origin-OnSet/Onset_Weapon_Patch) - Fix of SetPlayerWeapon() function, allows you to add a weapon to a player when he jumps or runs.
 * [vehicles-firstperson](https://github.com/vugi99/onset-vehicles-firstperson) - Support firstperson in vehicles.
+* [helicopterfix](https://github.com/vugi99/onset-helicopterfix) - Stops the helicopter's crazy physics (also resets rotation).
 
 
 ## Assets
