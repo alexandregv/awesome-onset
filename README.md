@@ -91,7 +91,8 @@ Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) f
 * [MogZones](https://github.com/AlexMog/Onset-MogZones) - A Zones collision system (player enters and exits a zone).
 * [MogInteractiveObjects](https://github.com/AlexMog/Onset-MogInteractiveObjects) - Create objects in your world and let them be interactive!
 * [GetOS](https://gist.github.com/vugi99/878f68a1f3953840090f285c417c7482) - A code snippet to detect OS from lua script.
-* [MetaObjects](https://github.com/openface/onset-metaobjects) - Inventory system and rich object framework for Onset
+* [MetaObjects](https://github.com/openface/onset-metaobjects) - Inventory system and rich object framework for Onset.
+* [Parachute](https://github.com/fribblet56/Onset-Parachute) - Simple parachute system.
 ### Other packages
 * [ingame-editor](https://github.com/openface/onset-ingame-editor) - An ingame code editor development tool for Onset.
 * [phone](https://github.com/rdlh/onset-phone) - A beautiful and powerful phone, made with VueJS.
