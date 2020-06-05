@@ -98,6 +98,7 @@ Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) f
 * [MetaObjects](https://github.com/openface/onset-metaobjects) - Inventory system and rich object framework for Onset.
 * [Parachute](https://github.com/fribblet56/Onset-Parachute) - Simple parachute system.
 * [auto-updater](https://github.com/vugi99/onset-auto-updater) - Auto updater which downloads updates for packages from GitHub.
+* [DiscordVoice](https://github.com/nightwolf93/night_DiscordVoice) - A simple package with a discord bot for creating calls.
 ### Other packages
 * [ingame-editor](https://github.com/openface/onset-ingame-editor) - An ingame code editor development tool for Onset.
 * [phone](https://github.com/rdlh/onset-phone) - A beautiful and powerful phone, made with VueJS.
