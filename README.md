@@ -174,6 +174,7 @@ Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) f
 Jan Bebendorf's playlist](https://www.youtube.com/playlist?list=PLvXRXgrNWWe7BBEdsCrNU03_YiaHnngZu) - Jan Bebendorf's playlist on onset lua scripting.
 * [Modding from 3DS MAX](https://www.youtube.com/watch?v=huiDdRx1ebQ) - How to convert mods from 3ds max to Onset (Detailed).
 * [open mailbox's playlist](https://www.youtube.com/playlist?list=PLWwpWHO_HMvBvs9SceUlzClOvul0a_LeO) - Onset Coding Tutorials by [open mailbox](https://www.youtube.com/channel/UC-QU331TYpMrhlZXK9g2nzw).
+* [Server Guides by Papy Brossard](https://www.youtube.com/playlist?list=PLuglTicI96Ex4ypmT-8j2FFOTOjlRucsI) - A playlist of useful guides to setup and administrate an Onset server, in French.
 
 
 ## Servers
