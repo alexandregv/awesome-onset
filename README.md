@@ -49,7 +49,6 @@ Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) f
 ## Packages and Plugins
 ### Admin
 * [pkg](https://github.com/alexandregv/onset-pkg) - A package to manage your other packages (list/start/stop/restart/etc) with commands or keys. Useful for devs.
-* [adminMenu](https://github.com/AnthonyTCS/onset-adminMenu/) - Admin menu with kick/ban/spawn/noclip/teleport.
 * [noclip](https://forum.playonset.com/forum/onset/scripting/releases/1504-noclip-script) - A basic noclip/fly package.
 * [whitelist](https://github.com/alexandregv/onset-whitelist) - A whitelist handling SteamIDs and Usernames (and IP soon).
 * [modmenu](https://forum.playonset.com/forum/onset/scripting/releases/1521-onset-mod-menu-rp-sandbox-administration-is-not-cheat) - A menu for admins allowing to set health/armor, spawn vehicles, teleport, set spawn, etc.
