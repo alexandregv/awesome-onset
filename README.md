@@ -79,6 +79,7 @@ Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) f
 * [Conquest](https://github.com/vugi99/onset-conquest) - In this gamemode you need to capture the flags. The first team at 0 points will loose.
 * [Yuki Roleplay Framework (YRPF)](https://github.com/OALM-Team/YRPF) - Roleplay Framework. Client available next line.
 * [YRPF Client](https://github.com/OALM-Team/YRPF-Client) - Client for YRPF (previous line).
+* [LakesideENG](https://github.com/DorteY/onset-LakesideENG) - A Reallife/Roleplay gamemode for everyone.
 ### Libraries
 * [JavaPlugin](https://github.com/OnfireNetwork/OnsetJavaPlugin) - Java wrapper, allows to create packages coded in Java.
 * [COW](https://github.com/OnsetCOW/COW) - Onset C# Wrapper, allows to create packages coded in C#.
