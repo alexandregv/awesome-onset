@@ -82,7 +82,7 @@ Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) f
 * [LakesideENG](https://github.com/DorteY/onset-LakesideENG) - A Reallife/Roleplay gamemode for everyone.
 ### Libraries
 * [JavaPlugin](https://github.com/OnfireNetwork/OnsetJavaPlugin) - Java wrapper, allows to create packages coded in Java.
-* [COW](https://github.com/OnsetCOW/COW) - **DEPRECATED!** *COW is deprecated due to a new project  which will replace this wrapper. Link to the new project: [here](https://github.com/OnsharpTeam)* .Onset C# Wrapper, allows to create packages coded in C#.
+* [COW](https://github.com/OnsetCOW/COW) - **DEPRECATED!** *COW is deprecated due to a new project  which will replace this wrapper. Link to the new project: [here](https://github.com/OnsharpTeam)*. Onset C# Wrapper, allows to create packages coded in C#.
 * [camera-library](https://github.com/dig/onset-camera-library) - A library to control camera. Allows to set camera to pan a location and to set camera on paths.
 * [data](https://github.com/dig/onset-data) - A library which adds weapons/vehicles class names and useful functions.
 * [i18n](https://github.com/OnfireNetwork/i18n) - Internationalization framework for onset packages.
