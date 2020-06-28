@@ -100,6 +100,7 @@ Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) f
 * [Parachute](https://github.com/fribblet56/Onset-Parachute) - Simple parachute system.
 * [auto-updater](https://github.com/vugi99/onset-auto-updater) - Auto updater which downloads updates for packages from GitHub.
 * [DiscordVoice](https://github.com/nightwolf93/night_DiscordVoice) - A simple package with a discord bot for creating calls.
+* [Discord-Webhook-Support](https://github.com/FlyingFork/Onset-Discord-Webhook-Support) - Allows you to send messages to your discord server from your onset server.
 ### Other packages
 * [ingame-editor](https://github.com/openface/onset-ingame-editor) - An ingame code editor development tool for Onset.
 * [phone](https://github.com/rdlh/onset-phone) - A beautiful and powerful phone, made with VueJS.
