@@ -80,6 +80,7 @@ Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) f
 * [Yuki Roleplay Framework (YRPF)](https://github.com/OALM-Team/YRPF) - Roleplay Framework. Client available next line.
 * [YRPF Client](https://github.com/OALM-Team/YRPF-Client) - Client for YRPF (previous line).
 * [LakesideENG](https://github.com/DorteY/onset-LakesideENG) - A Reallife/Roleplay gamemode for everyone.
+* [ORP Game](https://github.com/AliLogic/orp-game) - Roleplay gamemode.
 ### Libraries
 * [JavaPlugin](https://github.com/OnfireNetwork/OnsetJavaPlugin) - Java wrapper, allows to create packages coded in Java.
 * [Onsharp](https://github.com/OnsharpTeam/Onsharp) - Onset C# Wrapper, allowing you to create plugins for server-side in C# instead of LUA.
