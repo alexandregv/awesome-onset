@@ -102,6 +102,7 @@ Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) f
 * [DiscordVoice](https://github.com/nightwolf93/night_DiscordVoice) - A simple package with a discord bot for creating calls.
 * [Discord-Webhook-Support](https://github.com/FlyingFork/Onset-Discord-Webhook-Support) - Allows you to send messages to your discord server from your onset server.
 * [Magic_Box](https://github.com/Origin-OnSet/Onset_Magic_Box) - Simple Zombie COD Magic Box system.
+* [Weapon Drop](https://github.com/Origin-OnSet/Onset_Weapon_Drop) - Simple weapon drop system.
 ### Other packages
 * [ingame-editor](https://github.com/openface/onset-ingame-editor) - An ingame code editor development tool for Onset.
 * [phone](https://github.com/rdlh/onset-phone) - A beautiful and powerful phone, made with VueJS.
