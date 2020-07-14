@@ -140,6 +140,7 @@ Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) f
 * [vehicles-firstperson](https://github.com/vugi99/onset-vehicles-firstperson) - Support firstperson in vehicles.
 * [helicopterfix](https://github.com/vugi99/onset-helicopterfix) - Stops the helicopter's crazy physics (also resets rotation).
 * [weapon-sprint](https://github.com/vugi99/onset-weapon-sprint) - Allows to sprint with weapons while aiming.
+* [OnSharp Doors](https://github.com/sheiyla/OnSharp_Doors) - Doors plugin for [OnSharp](https://github.com/OnsharpTeam/Onsharp).
 
 
 ## Assets
