@@ -142,6 +142,7 @@ Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) f
 * [weapon-sprint](https://github.com/vugi99/onset-weapon-sprint) - Allows to sprint with weapons while aiming.
 * [OnSharp Doors](https://github.com/sheiyla/OnSharp_Doors) - Doors plugin for [OnSharp](https://github.com/OnsharpTeam/Onsharp).
 * [YRPF Alcohol](https://github.com/OALM-Team/yrpf_alcohol) - Provides some alcohol, you can drink them and get drunk. For [YRPF](https://github.com/OALM-Team/YRPF) only.
+* [FunGun](https://github.com/GalaxHD551/soloserver/tree/master/FunGun) - Allows you to destroy objects, cars, NPCs with any weapon or blew up everything in a explosion.
 
 
 ## Assets
