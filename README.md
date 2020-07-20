@@ -141,6 +141,7 @@ Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) f
 * [helicopterfix](https://github.com/vugi99/onset-helicopterfix) - Stops the helicopter's crazy physics (also resets rotation).
 * [weapon-sprint](https://github.com/vugi99/onset-weapon-sprint) - Allows to sprint with weapons while aiming.
 * [OnSharp Doors](https://github.com/sheiyla/OnSharp_Doors) - Doors plugin for [OnSharp](https://github.com/OnsharpTeam/Onsharp).
+* [YRPF Alcohol](https://github.com/OALM-Team/yrpf_alcohol) - Provides some alcohol, you can drink them and get drunk. For [YRPF](https://github.com/OALM-Team/YRPF) only.
 
 
 ## Assets
