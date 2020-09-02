@@ -169,6 +169,7 @@ Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) f
 * [AdminPanel](https://github.com/matt2210/Admin-Panel-Onset) - A web admin panel for the [onsetrp framework](https://github.com/frederic2ec/onsetrp). [Screenshots here](https://github.com/matt2210/Admin-Panel-Onset#screenshots).
 * [TopServeurs Onset](https://top-serveurs.net/onset) - A list of the best french Onset servers ranked by votes.
 * [ObjectSearch](https://onsetfreeroam.com/objectsearch/) - Online browsable object list, searchable by name or ID.
+* [OnsetProps](https://onsetprops.soljian.fr/) - Browse and filter game objects/props online.
 ### Softwares
 * [onset-docker](https://github.com/alexandregv/onset-docker) - Onset game server dockerized. Start a server with only one command.
 * [pWatcher](https://github.com/DoctorWhoFR/OnsetPWatcher) - A file watcher which automatically adds your packages files to package.json. [Demo here](https://www.youtube.com/watch?v=t9MQvapv9o4&feature=youtu.be&t=161).
