@@ -55,6 +55,7 @@ Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) f
 * [Zeus](https://github.com/DasDarki/onset-zeus) - A module-based powerful admin tool, including a permissions system and an API.
 * [CoordsToFile](https://github.com/Dimmies/Onset-CoordsToFile) - Super simple package to obtain coords without the tedious copy/pasting.
 * [Onsteam](https://github.com/vugi99/onset-onsteam) - Keep your Onset Server updated (automatically)!
+* [PackageManager](https://github.com/Origin-OnSet/PackageManager) - Start/stop/restart your packages through commands (in-game & console).
 ### Mapping
 * [default](https://github.com/BlueMountainsIO/OnsetLuaScripts/tree/master/default) - Default script to spawn doors and setup weapons.
 * [sandbox](https://github.com/dig/onset-sandbox-editor) - A sandbox editor which allows you to spawn objects or entities and save schematics and world.
