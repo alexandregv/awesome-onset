@@ -147,6 +147,7 @@ Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) f
 * [FunGun](https://github.com/GalaxHD551/soloserver/tree/master/FunGun) - Allows you to destroy objects, cars, NPCs with any weapon or blew up everything in a explosion.
 * [vdebug](https://github.com/vugi99/onset-vdebug) - A visual debug tool.
 * [OnsetLife Robery](https://github.com/OualiS/ol_robery) - Hold up some NPCs to earn money (or cops).
+* [YRPF Graffiti](https://github.com/OALM-Team/yrpf_graffiti) - Provide a spray can and the possibility to apply graffiti on defined area.
 
 
 ## Assets
