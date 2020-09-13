@@ -149,6 +149,7 @@ Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) f
 * [OnsetLife Robery](https://github.com/OualiS/ol_robery) - Hold up some NPCs to earn money (or cops).
 * [YRPF Graffiti](https://github.com/OALM-Team/yrpf_graffiti) - Provide a spray can and the possibility to apply graffiti on defined area.
 * [Return Car](https://github.com/vugi99/onset-return-car) - A package to return a car.
+* [WBack](https://github.com/vugi99/onset-wback) - The unequipped weapons are at the back.
 
 
 ## Assets
