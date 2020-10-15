@@ -83,6 +83,7 @@ Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) f
 * [LakesideENG](https://github.com/DorteY/onset-LakesideENG) - A Reallife/Roleplay gamemode for everyone.
 * [ORP Game](https://github.com/AliLogic/orp-game) - Roleplay gamemode.
 ### Libraries
+* [PluginSDK_Template](https://github.com/OnsharpTeam/PluginSDK_Template) - A template repository for Plugin Developers which gives them a real basic plugin without any functions.
 * [JavaPlugin](https://github.com/OnfireNetwork/OnsetJavaPlugin) - Java wrapper, allows to create packages coded in Java.
 * [Onsharp](https://github.com/OnsharpTeam/Onsharp) - Onset C# Wrapper, allowing you to create plugins for server-side in C# instead of LUA.
 * [camera-library](https://github.com/dig/onset-camera-library) - A library to control camera. Allows to set camera to pan a location and to set camera on paths.
