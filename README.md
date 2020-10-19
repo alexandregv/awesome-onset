@@ -109,6 +109,7 @@ Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) f
 * [lightstreamer](https://github.com/GalaxHD551/lightstreamer) - A library that allow you to create lights in the game world. There is various functions to modulate them.
 ### Other packages
 * [ingame-editor](https://github.com/openface/onset-ingame-editor) - An ingame code editor development tool for Onset.
+* [opus](https://github.com/openface/onset-opus) - Positioning tool for determining relative locations and rotation vectors for attached objects and components.
 * [phone](https://github.com/rdlh/onset-phone) - A beautiful and powerful phone, made with VueJS.
 * [calculator](https://github.com/ShotenDev/Onset-calculator) - A simple calculator with a flat design.
 * [hands_up_system](https://github.com/ShotenDev/Onset-hands_up_system) - A simple system to put your hands up.
