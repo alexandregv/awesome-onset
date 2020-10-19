@@ -66,7 +66,7 @@ Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) f
 ### Minigames
 * [race](https://github.com/BlueMountainsIO/OnsetLuaScripts/tree/master/race) - Car race minigame (used in trailer).
 * [Zombies](https://forum.playonset.com/forum/onset/scripting/releases/1601-zombies) - A gamemode with zombies spawning and attacking players.
-* [Alien Invasion!](https://github.com/openface/onset-alien-invasion) - Avoid aggresive aliens while capturing loot boxes and satellite equipment before the mothership lands!
+* [Alien Invasion!](https://github.com/openface/onset-alien-invasion) - Avoid aggressive aliens while capturing loot boxes and satellite equipment before the mothership lands!
 * [racing](https://github.com/vugi99/onset-racing) - A race minigame alternative.
 ### Frameworks
 * [OnsetRP](https://github.com/frederic2ec/onsetrp) - A Roleplay framework, originally designed for [OnsetRPFR](#roleplay).
