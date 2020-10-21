@@ -152,6 +152,7 @@ Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) f
 * [YRPF Graffiti](https://github.com/OALM-Team/yrpf_graffiti) - Provide a spray can and the possibility to apply graffiti on defined area.
 * [Return Car](https://github.com/vugi99/onset-return-car) - A package to return a car.
 * [Holster](https://github.com/vugi99/onset-holster) - The unequipped weapons are at the back.
+* [Particles](https://github.com/vugi99/onset-particles) - Networked particles.
 
 
 ## Assets
