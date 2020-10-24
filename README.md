@@ -82,6 +82,7 @@ Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) f
 * [YRPF Client](https://github.com/OALM-Team/YRPF-Client) - Client for YRPF (previous line).
 * [LakesideENG](https://github.com/DorteY/onset-LakesideENG) - A Reallife/Roleplay gamemode for everyone.
 * [ORP Game](https://github.com/AliLogic/orp-game) - Roleplay gamemode.
+* [MogRP-Onset](https://gitlab.com/mogrp-onset) - Framework and scripts for RP project.
 ### Libraries
 * [PluginSDK_Template](https://github.com/OnsharpTeam/PluginSDK_Template) - A template repository for Plugin Developers which gives them a real basic plugin without any functions.
 * [JavaPlugin](https://github.com/OnfireNetwork/OnsetJavaPlugin) - Java wrapper, allows to create packages coded in Java.
@@ -155,7 +156,7 @@ Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) f
 * [Particles](https://github.com/vugi99/onset-particles) - Networked particles.
 * [Toolgun](https://github.com/vugi99/onset-toolgun) - A toolgun to make tools easily.
 * [RPG-7](https://github.com/vugi99/onset-rpg7) - Rocket-propelled grenade launcher.
-* [Onset_Essential](https://github.com/Origin-OnSet/Onset_Essential) A permission manager package with player and admin commands.
+* [Onset_Essential](https://github.com/Origin-OnSet/Onset_Essential) - A permission manager package with player and admin commands.
 
 ## Assets
 ### HUDs
