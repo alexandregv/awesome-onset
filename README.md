@@ -155,6 +155,7 @@ Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) f
 * [Particles](https://github.com/vugi99/onset-particles) - Networked particles.
 * [Toolgun](https://github.com/vugi99/onset-toolgun) - A toolgun to make tools easily.
 * [RPG-7](https://github.com/vugi99/onset-rpg7) - Rocket-propelled grenade launcher.
+* [Onset_Essential](https://github.com/Origin-OnSet/Onset_Essential) A permission manager package with player and admin commands.
 
 ## Assets
 ### HUDs
