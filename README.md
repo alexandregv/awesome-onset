@@ -83,6 +83,7 @@ Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) f
 * [LakesideENG](https://github.com/DorteY/onset-LakesideENG) - A Reallife/Roleplay gamemode for everyone.
 * [ORP Game](https://github.com/AliLogic/orp-game) - Roleplay gamemode.
 * [MogRP-Onset](https://gitlab.com/mogrp-onset) - Framework and scripts for RP project.
+* [Onset Online](https://github.com/vugi99/onset-online) - A gamemode inspired by GTA Online.
 ### Libraries
 * [PluginSDK_Template](https://github.com/OnsharpTeam/PluginSDK_Template) - A template repository for Plugin Developers which gives them a real basic plugin without any functions.
 * [JavaPlugin](https://github.com/OnfireNetwork/OnsetJavaPlugin) - Java wrapper, allows to create packages coded in Java.
