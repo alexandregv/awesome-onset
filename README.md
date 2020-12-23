@@ -63,6 +63,7 @@ Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) f
 * [world](https://github.com/dig/onset-world) - Load your world created with [sandbox](https://github.com/dig/onset-sandbox-editor) (previous package).
 * [construction](https://github.com/vugi99/onset-construction) - A construction tool with a grid system. [Demo here](https://cdn.discordapp.com/attachments/656550879176163329/661532924285419531/onset-cons-last.mp4).
 * [OnniteBuilding](https://github.com/Dadadah/onnitebuilding) - A package that enables building in a style similar to Fortnite.
+* [Onset_Maps](https://github.com/Weon-Onset/Onset_Maps) - A simple maps manager.
 ### Minigames
 * [race](https://github.com/BlueMountainsIO/OnsetLuaScripts/tree/master/race) - Car race minigame (used in trailer).
 * [Zombies](https://forum.playonset.com/forum/onset/scripting/releases/1601-zombies) - A gamemode with zombies spawning and attacking players.
