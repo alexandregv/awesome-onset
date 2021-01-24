@@ -69,6 +69,7 @@ Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) f
 * [Zombies](https://forum.playonset.com/forum/onset/scripting/releases/1601-zombies) - A gamemode with zombies spawning and attacking players.
 * [Alien Invasion!](https://github.com/openface/onset-alien-invasion) - Avoid aggressive aliens while capturing loot boxes and satellite equipment before the mothership lands!
 * [racing](https://github.com/vugi99/onset-racing) - A race minigame alternative.
+* [Prophunt](https://github.com/BlueMountainsIO/prophunt) - A prophunt gamemode.
 ### Frameworks
 * [OnsetRP](https://github.com/frederic2ec/onsetrp) - A Roleplay framework, originally designed for [OnsetRPFR](#roleplay).
 * [OkayyFramework Basic](https://github.com/Kuzkay/OkayyNetwork/tree/master/OKAYY%20Framework%20Basic) - Basic version of OkayyFramework, used in [OkayyNetwork](http://okayy.network).
@@ -85,6 +86,7 @@ Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) f
 * [ORP Game](https://github.com/AliLogic/orp-game) - Roleplay gamemode.
 * [MogRP-Onset](https://gitlab.com/mogrp-onset) - Framework and scripts for RP project.
 * [Onset Online](https://github.com/vugi99/onset-online) - A gamemode inspired by GTA Online.
+* [BalanceRP](https://forum.playonset.com/forum/onset/scripting/releases/2331-balancerp) - A roleplay gamemode based on OnsetRP.
 ### Libraries
 * [PluginSDK_Template](https://github.com/OnsharpTeam/PluginSDK_Template) - A template repository for Plugin Developers which gives them a real basic plugin without any functions.
 * [JavaPlugin](https://github.com/OnfireNetwork/OnsetJavaPlugin) - Java wrapper, allows to create packages coded in Java.
