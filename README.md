@@ -87,6 +87,7 @@ Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) f
 * [MogRP-Onset](https://gitlab.com/mogrp-onset) - Framework and scripts for RP project.
 * [Onset Online](https://github.com/vugi99/onset-online) - A gamemode inspired by GTA Online.
 * [BalanceRP](https://forum.playonset.com/forum/onset/scripting/releases/2331-balancerp) - A roleplay gamemode based on OnsetRP.
+* [OnsZ](https://github.com/OALM-Team/OnsZ) - OnsZ Survival Gamemode with inventory, lootboxes, outfit system, blood system, radiation zone, item traders, etc.
 ### Libraries
 * [PluginSDK_Template](https://github.com/OnsharpTeam/PluginSDK_Template) - A template repository for Plugin Developers which gives them a real basic plugin without any functions.
 * [JavaPlugin](https://github.com/OnfireNetwork/OnsetJavaPlugin) - Java wrapper, allows to create packages coded in Java.
