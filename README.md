@@ -195,6 +195,7 @@ Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) f
 ### Other tools
 * [VSCode snippets](https://marketplace.visualstudio.com/items?itemName=zoukidev.vscode-olua) - Some nice VSCode snippets (autocompletion) for Onset Lua functions.
 * [pyogpclient](https://pypi.org/project/pyogpclient/) - Open Game Protocol Client for Python 3, useful to query Onset server status.
+* [onsetwikibot](https://github.com/JanHolger/onsetwikibot) - A discord bot written in python 3 allowing to search the Onset Developer Wiki.
 
 
 ## Guides
