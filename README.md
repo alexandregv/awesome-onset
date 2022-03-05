@@ -171,6 +171,7 @@ Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) f
 * [Onset_Essential](https://github.com/Origin-OnSet/Onset_Essential) - A permission manager package with player and admin commands.
 * [CharacterCustomizer](https://github.com/GalaxHD551/CharacterCustomizer) - A simple UI for customizing your onset character.
 * [network-manager](https://github.com/FlyingFork/onset-network-manager) - A network manager that includes a chart and details about the network connection.
+* [lightloader](https://github.com/GalaxHD551/lightloader) - A package that allows the server to read and load the lights.json file.
 
 ## Assets
 ### HUDs
