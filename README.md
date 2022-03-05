@@ -115,9 +115,10 @@ Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) f
 * [lightstreamer](https://github.com/GalaxHD551/lightstreamer) - A library that allow you to create lights in the game world. There is various functions to modulate them.
 * [CameraManager](https://github.com/vugi99/onset-CameraManager) - A library to spawn cameras and screens in the world.
 * [SaveAndLoad](https://github.com/vugi99/onset-SaveAndLoad) - A library to save data clientside.
-* [onset-vnpcs](https://github.com/vugi99/onset-vnpcs) - A library to add synced NPC pathfinding.
-* [Onset_car_speed](https://github.com/fribblet56/Onset_car_speed) - A simple exemple to change car speed.
-* [onset-code_loader](https://github.com/vugi99/onset-code_loader) - A script to run code from other packages in your package env.
+* [vnpcs](https://github.com/vugi99/onset-vnpcs) - A library to add synced NPC pathfinding.
+* [car_speed](https://github.com/fribblet56/Onset_car_speed) - A simple exemple to change car speed.
+* [code_loader](https://github.com/vugi99/onset-code_loader) - A script to run code from other packages in your package env.
+* [FasterThanTalos](https://github.com/vugi99/onset-FasterThanTalos) - A library that adds missing stuff and fixes Onset issues.
 ### Other packages
 * [ingame-editor](https://github.com/openface/onset-ingame-editor) - An ingame code editor development tool for Onset.
 * [opus](https://github.com/openface/onset-opus) - Positioning tool for determining relative locations and rotation vectors for attached objects and components.
