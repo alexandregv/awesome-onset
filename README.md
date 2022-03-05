@@ -167,6 +167,7 @@ Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) f
 * [RPG-7](https://github.com/vugi99/onset-rpg7) - Rocket-propelled grenade launcher.
 * [Onset_Essential](https://github.com/Origin-OnSet/Onset_Essential) - A permission manager package with player and admin commands.
 * [CharacterCustomizer](https://github.com/GalaxHD551/CharacterCustomizer) - A simple UI for customizing your onset character.
+* [network-manager](https://github.com/FlyingFork/onset-network-manager) - A network manager that includes a chart and details about the network connection.
 
 ## Assets
 ### HUDs
