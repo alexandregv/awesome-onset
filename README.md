@@ -82,16 +82,13 @@ Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) f
 * [Conquest](https://github.com/vugi99/onset-conquest) - In this gamemode you need to capture the flags. The first team at 0 points will loose.
 * [Yuki Roleplay Framework (YRPF)](https://github.com/OALM-Team/YRPF) - Roleplay Framework. Client available next line.
 * [YRPF Client](https://github.com/OALM-Team/YRPF-Client) - Client for YRPF (previous line).
-* [LakesideENG](https://github.com/DorteY/onset-LakesideENG) - A Reallife/Roleplay gamemode for everyone.
 * [ORP Game](https://github.com/AliLogic/orp-game) - Roleplay gamemode.
 * [MogRP-Onset](https://gitlab.com/mogrp-onset) - Framework and scripts for RP project.
 * [Onset Online](https://github.com/vugi99/onset-online) - A gamemode inspired by GTA Online.
 * [BalanceRP](https://forum.playonset.com/forum/onset/scripting/releases/2331-balancerp) - A roleplay gamemode based on OnsetRP.
 * [OnsZ](https://github.com/OALM-Team/OnsZ) - OnsZ Survival Gamemode with inventory, lootboxes, outfit system, blood system, radiation zone, item traders, etc.
 ### Libraries
-* [PluginSDK_Template](https://github.com/OnsharpTeam/PluginSDK_Template) - A template repository for Plugin Developers which gives them a real basic plugin without any functions.
 * [JavaPlugin](https://github.com/OnfireNetwork/OnsetJavaPlugin) - Java wrapper, allows to create packages coded in Java.
-* [Onsharp](https://github.com/OnsharpTeam/Onsharp) - Onset C# Wrapper, allowing you to create plugins for server-side in C# instead of LUA.
 * [camera-library](https://github.com/dig/onset-camera-library) - A library to control camera. Allows to set camera to pan a location and to set camera on paths.
 * [data](https://github.com/dig/onset-data) - A library which adds weapons/vehicles class names and useful functions.
 * [i18n](https://github.com/OnfireNetwork/i18n) - Internationalization framework for onset packages.
@@ -134,7 +131,6 @@ Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) f
 * [SeatD](https://forum.playonset.com/forum/onset/scripting/releases/1459-seatd-change-places-in-the-vehicle-without-leaving-there) - Change places in the vehicle without leaving there!
 * [Pinmap](https://github.com/Pindrought/pinmap) - A minimap with indicators for current position, special locations, other players, etc. Also allows to teleport. 
 * [vUtils](https://github.com/Leobrtl/vutils) - Useful vehicle utilities (lights, radio, engine, seats).
-* [Plate and Light](https://github.com/ezezbot/plate-and-light) - A simple package adding customisable cars plates and lights.
 * [ragP](https://github.com/Bad57/ragP) - A package allowing to ragdoll a player when he ejects from a moving vehicle.
 * [Preact boilerplate](https://github.com/openface/onset-preact-boilerplate) - [Preact](https://preactjs.com/) UI integration example.
 * [React-Redux boilerplate](https://github.com/DKFN/onset_react_example) - React-Redux Typescript boilerplate.
@@ -191,8 +187,6 @@ Contributions are welcome! Read the [contribution guidelines](CONTRIBUTING.md) f
 * [OnsetServerTools](https://onset-server.com/) - Server tools including config generator, weapons config generator and package config generator.
 * [AdminPanel](https://github.com/matt2210/Admin-Panel-Onset) - A web admin panel for the [onsetrp framework](https://github.com/frederic2ec/onsetrp). [Screenshots here](https://github.com/matt2210/Admin-Panel-Onset#screenshots).
 * [TopServeurs Onset](https://top-serveurs.net/onset) - A list of the best french Onset servers ranked by votes.
-* [ObjectSearch](https://onsetfreeroam.com/objectsearch/) - Online browsable object list, searchable by name or ID.
-* [OnsetProps](https://onsetprops.soljian.fr/) - Browse and filter game objects/props online.
 ### Softwares
 * [onset-docker](https://github.com/alexandregv/onset-docker) - Onset game server dockerized. Start a server with only one command.
 * [pWatcher](https://github.com/DoctorWhoFR/OnsetPWatcher) - A file watcher which automatically adds your packages files to package.json. [Demo here](https://www.youtube.com/watch?v=t9MQvapv9o4&feature=youtu.be&t=161).
@@ -218,9 +212,6 @@ Jan Bebendorf's playlist](https://www.youtube.com/playlist?list=PLvXRXgrNWWe7BBE
 
 ## Servers
 ### Roleplay
-* [OkayyNetwork](http://okayy.network/) - One of the very first server networks. For now it only has RP, but other gamemodes like CrimeCity, PrisonRP and MiniGames are planned. (English)
-* [SolidRP](https://solidrp.fr/) - An advanced RP server leveraging strong plugins. (French)
-* [BalanceRP](https://balancerp.com) - An advanced roleplay server with daily updates. (English)
 - [OnsetRPFR](https://discord.gg/XKMnz3e) - [Aiekillu](https://www.youtube.com/channel/UCUnmE4hrEF__A6jE9G5uX8g)'s server. Current server with the most players. Very fast development. (French)
 ### Prison
 ### Murder
